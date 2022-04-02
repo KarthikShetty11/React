@@ -25,11 +25,10 @@
 
 import Content from "./Content";
 
-
 const App = ()=>{
   return(
     <div>
-      <Content/>
+      <Content />
     </div>
   );
 };
